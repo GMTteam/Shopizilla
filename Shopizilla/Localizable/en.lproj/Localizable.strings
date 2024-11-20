@@ -1,0 +1,443 @@
+/* 
+  Localizable.strings
+  Shopizilla
+
+  Created by Thanh Hoang on 21/02/2023.
+  
+*/
+
+/* ==================== ProfileModel.swift ==================== */
+
+"Account Details" = "Account Details";
+"Order History" = "Order History";
+"Wishlist" = "Wishlist";
+"Chat" = "Chat";
+"Address" = "Address";
+"Notifications" = "Notifications";
+"Settings" = "Settings";
+
+/* ==================== SettingModel.swift ==================== */
+
+"Messages" = "Messages";
+"Order Updates" = "Order Updates";
+"New Arrivals" = "New Arrivals";
+"Promotions" = "Promotions";
+"Sales Alerts" = "Sales Alerts";
+"Instagram" = "Instagram";
+"About Us" = "About Us";
+"Information" = "Information";
+"Support" = "Support";
+"Review" = "Review";
+"Share" = "Share";
+"Push Notifications" = "Push Notifications";
+"Socials" = "Socials";
+
+/* ==================== ShareModel.swift ==================== */
+
+"Copy Link" = "Copy Link";
+"Via Text" = "Via Text";
+"More" = "More";
+"Via Contacts" = "Via Contacts";
+
+/* ==================== SortModel.swift ==================== */
+
+"Sort A to Z" = "Sort A to Z";
+"Sort Z to A" = "Sort Z to A";
+"Price: Low to High" = "Price: Low to High";
+"Price: High to Low" = "Price: High to Low";
+"Random" = "Random";
+
+/* ==================== StatusModel.swift ==================== */
+
+"Order Placed" = "Order Placed";
+"On Going" = "On Going";
+"Delivered" = "Delivered";
+"Cancelled" = "Cancelled";
+
+/* ==================== TitleAddressModel.swift ==================== */
+
+"Full Name" = "Full Name";
+"Street" = "Street";
+"Country" = "Country";
+"State/Province" = "State/Province";
+"City/Town" = "City/Town";
+"Ward/Village" = "Ward/Village";
+"Phone Number" = "Phone Number";
+
+/* ==================== UISearchBar.swift ==================== */
+
+"Cancel" = "Cancel";
+
+/* ==================== UIViewController.swift ==================== */
+
+"Error" = "Error";
+"OK" = "OK";
+
+/* ==================== PhotoAlertVC.swift ==================== */
+
+"Photo From Library" = "Photo From Library";
+"Take Photo" = "Take Photo";
+
+/* ==================== FilterVC.swift ==================== */
+
+"Apply" = "Apply";
+
+/* ==================== InformationVC.swift ==================== */
+
+"Contact & Address" = "Contact & Address";
+"Hotline" = "Hotline";
+"Email" = "Email";
+
+/* ==================== ProductReviewCoverView.swift ==================== */
+
+"Load more" = "Load more";
+
+/* ==================== ChatViewModel.swift ==================== */
+
+"Online" = "Online";
+
+/* ==================== ChatVC.swift ==================== */
+
+"You have a new message" = "You have a new message";
+"Delete" = "Delete";
+"Copy" = "Copy";
+"Copied" = "Copied";
+"Download" = "Download";
+"Download Error" = "Download Error";
+"Downloaded" = "Downloaded";
+"sent you a image" = "sent you a image";
+
+/* ==================== ChatSentView.swift ==================== */
+
+"May I help you?" = "May I help you?";
+
+/* ==================== ProductSizeView.swift ==================== */
+
+"Sizes" = "Sizes";
+"Size" = "Size";
+
+/* ==================== ProductColorView.swift ==================== */
+
+"Color" = "Color";
+
+/* ==================== ProductDescriptionView.swift ==================== */
+
+"Description" = "Description";
+
+/* ==================== ProductReviewsView.swift ==================== */
+
+"Reviews" = "Reviews";
+
+/* ==================== ProductRelatedView.swift ==================== */
+
+"Related Products" = "Related Products";
+
+/* ==================== WelcomeVC.swift ==================== */
+
+"Hi!" = "Hi!";
+"Reset Password" = "Reset Password";
+"Check your mail. Thanks!" = "Check your mail. Thanks!";
+"Email address does not exist." = "Email address does not exist.";
+
+/* ==================== WelContentView.swift ==================== */
+
+"Continue" = "Continue";
+"OR" = "OR";
+"Continue with Facebook" = "Continue with Facebook";
+"Continue with Google" = "Continue with Google";
+"Continue with Apple" = "Continue with Apple";
+"Browse as a guest" = "Browse as a guest";
+"Forgot your password?" = "Forgot your password?";
+
+/* ==================== EmailTF.swift ==================== */
+
+"Done" = "Done";
+
+/* ==================== SignInVC.swift ==================== */
+
+"Log In" = "Log In";
+"Reset Password" = "Reset Password";
+"Check your mail. Thanks!" = "Check your mail. Thanks!";
+"Email address does not exist." = "Email address does not exist.";
+"Email Verification" = "Email Verification";
+"Please visit your email address for verification" = "Please visit your email address for verification";
+"If you choose OK, will access your mail." = "If you choose OK, will access your mail.";
+"If you have not received the verification email, select Verify." = "If you have not received the verification email, select Verify.";
+
+"Verify" = "Verify";
+
+/* ==================== SignInContentView.swift ==================== */
+
+"Password (>7 characters)" = "Password (>7 characters)";
+"Forgot your password?" = "Forgot your password?";
+
+/* ==================== SignUpVC.swift ==================== */
+
+"Sign Up" = "Sign Up";
+
+/* ==================== SignUpContentView.swift ==================== */
+
+"Terms of Service" = "Terms of Service";
+"Name" = "Name";
+"Agree And Continue" = "Agree And Continue";
+
+/* ==================== UserVC.swift ==================== */
+
+"Login" = "Login";
+
+/* ==================== UserLogoutTVCell.swift ==================== */
+
+"Logout" = "Logout";
+
+/* ==================== EditProfileVC.swift ==================== */
+
+"Your Name" = "Your Name";
+"Date of Birth" = "Date of Birth";
+"Gender" = "Gender";
+"Edit Profile" = "Edit Profile";
+"Male" = "Male";
+"Female" = "Female";
+
+/* ==================== SaveTVCell.swift ==================== */
+
+"Save" = "Save";
+
+/* ==================== OrderHistoryViewModel.swift ==================== */
+
+"item" = "item";
+"items" = "items";
+
+"(PAID)" = "(PAID)";
+"Total:" = "Total:";
+"Confirm" = "Confirm";
+
+"Complete" = "Complete";
+
+/* ==================== OrderHistoryVC.swift ==================== */
+
+"Order History" = "Order History";
+"On Going" = "On Going";
+"Your order has been confirmed by ShopiZilla" = "Your order has been confirmed by ShopiZilla";
+"Delivered" = "Delivered";
+"The order has been successfully delivered. How do you see this product? Please rate it,..." = "The order has been successfully delivered. How do you see this product? Please rate it,...";
+
+/* ==================== OrderHistoryCenterView.swift ==================== */
+
+"No orders" = "No orders";
+
+/* ==================== MyOrderViewModel.swift ==================== */
+
+"Order number" = "Order number";
+"Order date" = "Order date";
+"Delivery address" = "Delivery address";
+
+"Orders placed on" = "Orders placed on";
+"Parcel will be delivered before" = "Parcel will be delivered before";
+"Parcel is successfully delivered." = "Parcel is successfully delivered.";
+"Order has been cancelled." = "Order has been cancelled.";
+
+/* ==================== MyOrderVC.swift ==================== */
+
+"My Order" = "My Order";
+
+/* ==================== MyOrderSubCVCell.swift ==================== */
+
+"Subtotal" = "Subtotal";
+"Shipping Fee" = "Shipping Fee";
+"Rate" = "Rate";
+"Don’t forget to rate" = "Don’t forget to rate";
+"Submit your review to get 25 points" = "Submit your review to get 25 points";
+
+/* ==================== RateProductVC.swift ==================== */
+
+"Would you like to write anything about this product?" = "Would you like to write anything about this product?";
+"Rate Product" = "Rate Product";
+"characters" = "characters";
+"character" = "character";
+
+/* ==================== RateProductSubmitView.swift ==================== */
+
+"Submit Review" = "Submit Review";
+
+/* ==================== AddressViewModel.swift ==================== */
+
+"Add New Address" = "Add New Address";
+
+/* ==================== AddressVC.swift ==================== */
+
+"Set to default address" = "Set to default address";
+"Shipping to address" = "Shipping to address";
+"Please choose an address" = "Please choose an address";
+"Oops" = "Oops";
+"You can't delete the default address";
+"Are you sure you want delete this address?" = "Are you sure you want delete this address?";
+"You cannot undo this action" = "You cannot undo this action";
+
+/* ==================== AddressTVCell.swift ==================== */
+
+"Edit" = "Edit";
+
+/* ==================== AddNewAddressViewModel.swift ==================== */
+
+"Street address" = "Street address";
+"Wards/Village" = "Wards/Village";
+
+/* ==================== AddNewAddressVC.swift ==================== */
+
+"Address Detail" = "Address Detail";
+"Update Address" = "Update Address";
+"New Address" = "New Address";
+
+/* ==================== NotificationsVC.swift ==================== */
+
+"Copied Promo Code" = "Copied Promo Code";
+
+/* ==================== NotificationsCenterView.swift ==================== */
+
+"No notifications" = "No notifications";
+
+/* ==================== SettingsVC.swift ==================== */
+
+"Settings" = "Settings";
+
+/* ==================== SearchRecentlySearchesView.swift ==================== */
+
+"Recently Searches" = "Recently Searches";
+"Remove All" = "Remove All";
+
+/* ==================== SearchRecentlyViewedView.swift ==================== */
+
+"Recently Viewed" = "Recently Viewed";
+"View All" = "View All";
+
+/* ==================== BagViewModel.swift ==================== */
+
+"Promo code does not exist." = "Promo code does not exist.";
+"Promo code used." = "Promo code used.";
+"Promo code has expired." = "Promo code has expired.";
+"Applied" = "Applied";
+
+/* ==================== BagVC.swift ==================== */
+
+"Bag" = "Bag";
+"Choose" = "Choose";
+"Remove from cart?" = "Remove from cart?";
+"This product will be removed from cart." = "This product will be removed from cart.";
+"Remove" = "Remove";
+
+/* ==================== BagPromoCodeCVCell.swift ==================== */
+
+"Promo Code" = "Promo Code";
+
+/* ==================== BagCenterView.swift ==================== */
+
+"Add Product" = "Add Product";
+
+/* ==================== BagBottomView.swift ==================== */
+
+"FREE" = "FREE";
+"Total" = "Total";
+
+/* ==================== CheckoutVC.swift ==================== */
+
+"Checkout" = "Checkout";
+"Place Order" = "Place Order";
+"Canceled" = "Canceled";
+"Payment failed" = "Payment failed";
+"Shipping method" = "Shipping method";
+"Payment methods" = "Payment methods";
+"Device does not support Apple Pay" = "Device does not support Apple Pay";
+"Error at checkout" = "Error at checkout";
+"Failed" = "Failed";
+
+"Payment by Credit Card" = "Payment by Credit Card";
+"Payment by Apple Pay" = "Payment by Apple Pay";
+
+/* ==================== CheckoutBottomView.swift ==================== */
+
+"Subtotal" = "Subtotal";
+"Shipping Fee" = "Shipping Fee";
+"Total Payment" = "Total Payment";
+"Free" = "Free";
+
+/* ==================== CreditCardVC.swift ==================== */
+
+"Order Place" = "Order Place";
+"Credit Card" = "Credit Card";
+
+/* ==================== SuccessVC.swift ==================== */
+
+"Order" = "Order";
+"successfully placed. You will receive the item in about 5 -7 days." = "successfully placed. You will receive the item in about 5 -7 days.";
+"Back to Home" = "Back to Home";
+"Order Completed" = "Order Completed";
+
+/* ==================== HomeBannerCVCell.swift ==================== */
+
+"Show Now" = "Show Now";
+
+/* ==================== TabBarController.swift ==================== */
+
+"Home" = "Home";
+"Shop" = "Shop";
+"Search" = "Search";
+"Profile" = "Profile";
+
+/* ==================== MenuModel.swift ==================== */
+
+"Category" = "Category";
+"Social" = "Social";
+"Feature" = "Feature";
+
+/* ==================== HUDSave.swift ==================== */
+
+"Please Wait" = "Please Wait";
+"Verifying" = "Verifying";
+
+/* ==================== LeftMenuContainerVC.swift ==================== */
+
+"Welcome to" = "Welcome to";
+
+/* ==================== SearchResultViewModel.swift ==================== */
+
+"Found" = "Found";
+"Results" = "Results";
+
+/* ==================== ProductReviewHeaderView.swift ==================== */
+
+"reviews" = "reviews";
+
+/* ==================== PromoCodePopupVC.swift ==================== */
+
+"Copy Promo Code" = "Copy Promo Code";
+
+"FREESHIP" = "FREESHIP";
+"DISCOUNT" = "DISCOUNT";
+
+/* ==================== PromoCodeViewModel.swift ==================== */
+
+"day" = "day";
+"days" = "days";
+
+"hour" = "hour";
+"hours" = "hours";
+
+"minute" = "minute";
+"minutes" = "minutes";
+
+"Expired" = "Expired";
+
+/* ==================== HomeVC.swift ==================== */
+
+"Featured" = "Featured";
+"My Wishlist" = "My Wishlist";
+
+/* ==================== .swift ==================== */
+
+/* ==================== .swift ==================== */
+
+/* ==================== .swift ==================== */
+
+/* ==================== .swift ==================== */
+
+/* ==================== .swift ==================== */

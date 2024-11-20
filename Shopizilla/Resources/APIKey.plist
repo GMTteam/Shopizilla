@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayPal-ClientID</key>
+	<string>AQfdGxFu4_oSNgB98cnbkXeenBOSwTAX4BEmDKFRaf-Q1stelpL5Kn7GGbwUU5UNO39FkYFcXvsqLZDJ</string>
+	<key>PayPal-SecretKey</key>
+	<string>EJGOM4C1uGYusKBuSOHWhPf6T6IXrDgNQ3PzJOCOGdwwL2dEmk-Og8-q7ZNhCOR7y0IE4x2H63tW5qqT</string>
+	<key>Stripe-PublicKey</key>
+	<string>pk_test_3neCm1uMH20Ny9PymlLwQqrZ</string>
+	<key>Stripe-SecretKey</key>
+	<string>sk_test_LC3fJ8Opl8EhUT7AZatJOlTK00fj9qw3sm</string>
+	<key>ApplePayID</key>
+	<string>merchant.com.projvn.devs.Shopizilla</string>
+	<key>AppID</key>
+	<string>1629694019</string>
+	<key>AdminID</key>
+	<string>JQNPb1O9FPaaGWwmJ2QCFU9ZHfO2</string>
+	<key>ServerKey</key>
+	<string>AAAAL1nFv_o:APA91bE4Z5yea62yc9y_HoDCdt9D5Mdc4QQLyJhKxK8jbgVMzb3ZgdmB4_9docb4t7YwYp4FxYoOcqQWUlWvRB2WLcICldRDaUxHttAcGOWEgFOoN3z5cqe0tX6IjVyFH3gzarRZ25rP</string>
+	<key>Email</key>
+	<string>shopizilla@gmail.com</string>
+	<key>Instagram</key>
+	<string>shopizilla</string>
+	<key>Address</key>
+	<string>123 Quang Trung, Tỉnh Gia Lai, Việt Nam</string>
+	<key>PhoneNumber</key>
+	<string>+84 97 299999</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module Pods_Shopizilla {
+  umbrella header "Pods-Shopizilla-umbrella.h"
+
+  export *
+  module * { export * }
+}

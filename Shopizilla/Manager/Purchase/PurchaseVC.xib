@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Bold.ttf">
+            <string>Poppins-Bold</string>
+        </array>
+        <array key="Poppins-Regular.ttf">
+            <string>Poppins-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PurchaseVC" customModule="Zilla_NFTs" customModuleProvider="target">
+            <connections>
+                <outlet property="purchaseTF" destination="jyG-G0-ER7" id="sSd-2s-OzW"/>
+                <outlet property="stackView" destination="BUU-Fd-bh8" id="zGe-8A-u0T"/>
+                <outlet property="titleLbl" destination="zyt-ED-JDy" id="zuz-0h-NOg"/>
+                <outlet property="verifyBtn" destination="nPG-hu-PXW" id="KOp-L0-HcO"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="whereBtn" destination="tko-g7-DmP" id="JKT-Hk-JLD"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="thankYou" translatesAutoresizingMaskIntoConstraints="NO" id="TWX-Ng-w6g">
+                    <rect key="frame" x="20.5" y="59" width="373" height="101"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="TWX-Ng-w6g" secondAttribute="height" multiplier="1000:271" id="wLm-vX-0Oa"/>
+                    </constraints>
+                </imageView>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="BUU-Fd-bh8">
+                    <rect key="frame" x="0.0" y="200" width="414" height="159"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter your purchase code" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zyt-ED-JDy">
+                            <rect key="frame" x="20.5" y="0.0" width="373" height="24"/>
+                            <fontDescription key="fontDescription" name="Poppins-Bold" family="Poppins" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Purchase code" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="jyG-G0-ER7" customClass="PurchaseTF" customModule="Zilla_NFTs" customModuleProvider="target">
+                            <rect key="frame" x="20.5" y="44" width="373" height="50"/>
+                            <color key="backgroundColor" systemColor="systemGray6Color"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="50" id="wrZ-bl-EXU"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="17"/>
+                            <textInputTraits key="textInputTraits"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                    <integer key="value" value="8"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </textField>
+                        <button opaque="NO" clipsSubviews="YES" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nPG-hu-PXW" customClass="ButtonAnimation" customModule="Zilla_NFTs" customModuleProvider="target">
+                            <rect key="frame" x="147" y="114" width="120" height="45"/>
+                            <color key="backgroundColor" red="0.25882352939999997" green="0.26274509800000001" blue="0.24313725489999999" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="120" id="ZQv-u5-fb5"/>
+                                <constraint firstAttribute="height" constant="45" id="yd7-xd-lg5"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Poppins-Bold" family="Poppins" pointSize="16"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="Verify"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                    <real key="value" value="22.5"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </button>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="jyG-G0-ER7" firstAttribute="width" secondItem="BUU-Fd-bh8" secondAttribute="width" multiplier="0.9" id="Z5o-aW-WBz"/>
+                        <constraint firstItem="zyt-ED-JDy" firstAttribute="width" secondItem="BUU-Fd-bh8" secondAttribute="width" multiplier="0.9" id="uRN-Cx-SdL"/>
+                    </constraints>
+                </stackView>
+                <button opaque="NO" clipsSubviews="YES" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tko-g7-DmP" customClass="ButtonAnimation" customModule="Zilla_NFTs" customModuleProvider="target">
+                    <rect key="frame" x="186.5" y="369" width="207" height="30"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <fontDescription key="fontDescription" name="Poppins-Bold" family="Poppins" pointSize="14"/>
+                    <inset key="contentEdgeInsets" minX="0.0" minY="5" maxX="0.0" maxY="5"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="Where Is My Purchase Code?">
+                        <color key="titleColor" systemColor="linkColor"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <integer key="value" value="8"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="TWX-Ng-w6g" firstAttribute="width" secondItem="i5M-Pr-FkT" secondAttribute="width" multiplier="0.9" id="WGy-rf-xrM"/>
+                <constraint firstItem="BUU-Fd-bh8" firstAttribute="top" secondItem="TWX-Ng-w6g" secondAttribute="bottom" constant="40" id="XaZ-8V-R17"/>
+                <constraint firstItem="TWX-Ng-w6g" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="15" id="XrJ-uN-OIy"/>
+                <constraint firstItem="tko-g7-DmP" firstAttribute="top" secondItem="BUU-Fd-bh8" secondAttribute="bottom" constant="10" id="YWO-8X-uXp"/>
+                <constraint firstItem="TWX-Ng-w6g" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="abf-NK-K2a"/>
+                <constraint firstAttribute="trailing" secondItem="BUU-Fd-bh8" secondAttribute="trailing" id="iZq-jH-KIp"/>
+                <constraint firstItem="BUU-Fd-bh8" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="qyb-Po-Djj"/>
+                <constraint firstItem="tko-g7-DmP" firstAttribute="trailing" secondItem="zyt-ED-JDy" secondAttribute="trailing" id="ug6-zv-rb9"/>
+                <constraint firstItem="BUU-Fd-bh8" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="yrF-Vw-0sB"/>
+            </constraints>
+            <point key="canvasLocation" x="139" y="146"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="thankYou" width="1000" height="271"/>
+        <systemColor name="linkColor">
+            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGray6Color">
+            <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

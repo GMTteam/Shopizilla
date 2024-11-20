@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>E-Commerce App Template - iOS Swift</string>
+	<key>myCode</key>
+	<string>https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-</string>
+	<key>airKey</key>
+	<string>keydB27Stzz9JSWSb</string>
+	<key>airLink</key>
+	<string>https://api.airtable.com/v0/appGeDFdQELJXYlYR/Purchase</string>
+	<key>link</key>
+	<string>https://api.envato.com/v3/market/author/sale?code=</string>
+	<key>key</key>
+	<string></string>
+	<key>en</key>
+	<string></string>
+	<key>iv</key>
+	<string></string>
+</dict>
+</plist>
