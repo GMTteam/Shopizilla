@@ -2,7 +2,7 @@
 //  ProductSizeCVCell.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 25/04/2022.
+//  Created by Anh Tu on 25/04/2022.
 //
 
 import UIKit

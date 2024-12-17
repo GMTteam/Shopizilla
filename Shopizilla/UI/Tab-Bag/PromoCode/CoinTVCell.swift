@@ -2,7 +2,7 @@
 //  CoinTVCell.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 24/06/2022.
+//  Created by Anh Tu on 24/06/2022.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  CurrencyLocal.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 07/06/2022.
+//  Created by Anh Tu on 07/06/2022.
 //
 
 import UIKit

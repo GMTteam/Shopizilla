@@ -2,7 +2,7 @@
 //  AES.swift
 //  Zilla NFTs
 //
-//  Created by Thanh Hoang on 29/03/2022.
+//  Created by Anh Tu on 29/03/2022.
 //
 
 import Foundation

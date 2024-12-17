@@ -2,7 +2,7 @@
 //  ImagePickerHelper.swift
 //  Zilla NFTs
 //
-//  Created by Thanh Hoang on 11/12/2021.
+//  Created by Anh Tu on 11/12/2021.
 //
 
 import UIKit

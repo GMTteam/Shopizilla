@@ -2,7 +2,7 @@
 //  ProductTitleView.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 24/04/2022.
+//  Created by Anh Tu on 24/04/2022.
 //
 
 import UIKit

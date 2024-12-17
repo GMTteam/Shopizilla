@@ -2,7 +2,7 @@
 //  OrderHistoryItemView.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 14/05/2022.
+//  Created by Anh Tu on 14/05/2022.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  BagCenterView.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 27/04/2022.
+//  Created by Anh Tu on 27/04/2022.
 //
 
 import UIKit

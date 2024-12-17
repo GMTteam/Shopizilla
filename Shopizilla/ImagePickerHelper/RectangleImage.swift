@@ -2,7 +2,7 @@
 //  RectangleImage.swift
 //  Zilla NFTs
 //
-//  Created by Thanh Hoang on 10/12/2021.
+//  Created by Anh Tu on 10/12/2021.
 //
 
 import UIKit

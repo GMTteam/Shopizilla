@@ -2,7 +2,7 @@
 //  NewArrivalViewAllHeaderView.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 26/06/2022.
+//  Created by Anh Tu on 26/06/2022.
 //
 
 import UIKit

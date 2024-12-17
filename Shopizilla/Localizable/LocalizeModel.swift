@@ -2,7 +2,7 @@
 //  LocalizeModel.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 21/02/2023.
+//  Created by Anh Tu on 21/02/2023.
 //
 
 import UIKit

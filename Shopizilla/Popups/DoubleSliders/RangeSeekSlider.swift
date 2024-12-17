@@ -2,7 +2,7 @@
 //  RangeSeekSlider.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 19/04/2022.
+//  Created by Anh Tu on 19/04/2022.
 //
 
 import UIKit

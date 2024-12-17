@@ -2,7 +2,7 @@
 //  DateModel.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 16/06/2022.
+//  Created by Anh Tu on 16/06/2022.
 //
 
 import UIKit

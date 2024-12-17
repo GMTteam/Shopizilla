@@ -2,7 +2,7 @@
 //  StateModel.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 16/05/2022.
+//  Created by Anh Tu on 16/05/2022.
 //
 
 import Foundation

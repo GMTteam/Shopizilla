@@ -2,7 +2,7 @@
 //  ShopCVCell.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 21/04/2022.
+//  Created by Anh Tu on 21/04/2022.
 //
 
 import UIKit

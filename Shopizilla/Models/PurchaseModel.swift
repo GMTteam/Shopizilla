@@ -2,7 +2,7 @@
 //  PurchaseModel.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 28/06/2022.
+//  Created by Anh Tu on 28/06/2022.
 //
 
 import UIKit

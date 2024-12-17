@@ -2,7 +2,7 @@
 //  SearchCategoriesView.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 26/04/2022.
+//  Created by Anh Tu on 26/04/2022.
 //
 
 import UIKit

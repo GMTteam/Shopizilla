@@ -2,7 +2,7 @@
 //  CityTVCell.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 30/04/2022.
+//  Created by Anh Tu on 30/04/2022.
 //
 
 import UIKit

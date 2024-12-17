@@ -2,7 +2,7 @@
 //  ConnectModel.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 05/04/2022.
+//  Created by Anh Tu on 05/04/2022.
 //
 
 import UIKit

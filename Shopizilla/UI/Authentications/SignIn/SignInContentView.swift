@@ -2,7 +2,7 @@
 //  SignInContentView.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 03/04/2022.
+//  Created by Anh Tu on 03/04/2022.
 //
 
 import UIKit

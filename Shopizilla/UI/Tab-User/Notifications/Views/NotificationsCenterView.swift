@@ -2,7 +2,7 @@
 //  NotificationsCenterView.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 14/06/2022.
+//  Created by Anh Tu on 14/06/2022.
 //
 
 import UIKit

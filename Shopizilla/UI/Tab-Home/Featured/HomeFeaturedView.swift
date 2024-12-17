@@ -2,7 +2,7 @@
 //  HomeFeaturedView.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 10/05/2022.
+//  Created by Anh Tu on 10/05/2022.
 //
 
 import UIKit

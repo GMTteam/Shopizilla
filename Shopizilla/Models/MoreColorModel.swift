@@ -2,7 +2,7 @@
 //  MoreColorModel.swift
 //  Shopizilla
 //
-//  Created by Thanh Hoang on 12/06/2022.
+//  Created by Anh Tu on 12/06/2022.
 //
 
 import UIKit

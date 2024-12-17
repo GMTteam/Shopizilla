@@ -2,7 +2,7 @@
 //  PurchaseTF.swift
 //  Zilla NFTs
 //
-//  Created by Thanh Hoang on 11/06/2022.
+//  Created by Anh Tu on 11/06/2022.
 //
 
 import UIKit
